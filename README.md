@@ -12,7 +12,6 @@ Make sure that you install the following libraries, if you are running it on you
   * sklearn
   * keras
   * seaborn
-  
 
 ## 3. How to run.
 If you are interested in modifying this model and training it yourself, then please feel free to do so.  
